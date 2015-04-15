@@ -1,3 +1,3 @@
 # Annoyances
 
-This repo contains [example pull requests](/smp-labs/annoyances/pulls) created by https://github.com/smp-labs/annoyance
+This repo contains [example pull requests](https://github.com/smp-labs/annoyances/pulls) created by https://github.com/smp-labs/annoyance
