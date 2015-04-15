@@ -1,0 +1,3 @@
+# Created: 2015-04-15...
+
+...and it serves as an example with variables, such as week number: 16.
