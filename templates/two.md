@@ -1,0 +1,3 @@
+# Created: {date}...
+
+...and it serves as an example with variables, such as week number: {week}.
